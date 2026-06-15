@@ -1,0 +1,7 @@
+1.Amplifier(Two-channel amplifier,RMS power > 50W each channel)
+2.Two 2-inch tweeters (Ref.Freq.:around 1.5 - 20KHz  Power around 15W each) 
+3.Two 3.5 inch woofers (Ref. Freq.:around 65 - 3KHz  Power around 35W each)
+4.Two Two-way Crossover,Crossover Frequency around 2.5KHz
+   (Need to be under the frequency intersect point of your tweeter and woofer)
+5.Wires & 6mmM3screws
+
